@@ -1,3 +1,4 @@
 # exploring-github
 my first github repo
-Author - VAISHALI SHARMA
+<br>
+<h3>Author - VAISHALI SHARMA</h3>
